@@ -1,0 +1,55 @@
+.card{
+    border: 0;
+}
+
+.card-img-top{
+    width: 100px;
+}
+
+header{
+    background: url(img/portada.png);
+}
+
+#zapatoTres{
+    height: 300px;
+}
+
+#caminar{
+    font-size: initial;
+    text-decoration-color: black;
+    text-align: left;
+
+}
+
+#texto{
+    color: black;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 1.5em;
+}
+
+#portada{
+    height: 300px;
+}
+
+#caminado{
+    height: 400px;
+}
+
+#men,#inicio{
+    background: cadetblue;
+}
+
+#woman{
+    background: palevioletred;
+}
+
+
+.form-check-label{
+    
+    width: 5em;
+}
+
+#regreso{
+    text-align: right;
+}
